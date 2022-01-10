@@ -1,0 +1,17 @@
+
+
+     _       _____                _
+    (_)     /  __ \              | |
+ _____ _ __ | /  \/_ __ __ _  ___| | _____ _ __
+|_  / | '_ \| |   | '__/ _` |/ __| |/ / _ \ '__|
+ / /| | |_) | \__/\ | | (_| | (__|   <  __/ |
+/___|_| .__/ \____/_|  \__,_|\___|_|\_\___|_|
+      | |
+      |_|
+
+
+
+
+Change the name of the zip file you want to crack to locked and the name of the wordlist file
+you want to use to wordlist and place it in the same directory as the py file, and then run the program.
+You can take a look at alternative wordlists for stronger attacks.
